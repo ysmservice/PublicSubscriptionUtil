@@ -1,0 +1,2 @@
+# PublicSubscriptionUtil
+公開版SubscriptionUtil
